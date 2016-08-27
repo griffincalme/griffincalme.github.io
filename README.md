@@ -1,5 +1,6 @@
 #Griffin Calme
 ## A Blog on Programming in Science and Medicine
 
-This is my personal blog page, forked from [Jekyll Now](https://github.com/barryclark/jekyll-now))
+This is my personal blog page, forked from [Jekyll Now](https://github.com/barryclark/jekyll-now).
 
+You can find it at https://github.com/griffincalme/griffincalme.github.io
