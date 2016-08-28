@@ -16,7 +16,9 @@ If you can't figure out how to install these I highly recommend using
 the [Anaconda](https://www.continuum.io/downloads) python distribution.
 It comes with all of the most popular scientific packages already installed.
 Additionally, the 
+
 ```conda install package_name_here```
+
 command allows you to
 get access to an even larger collection of pre-compiled python packages, so no
 messing around with compiler errors!
