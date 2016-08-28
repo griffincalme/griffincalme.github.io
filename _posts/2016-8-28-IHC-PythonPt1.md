@@ -9,20 +9,20 @@ project.
 
 ![Color deconvolution]({{ site.baseurl }}/images/IHC/CD.png)
 
+###Startup
+
 We'll be using Python 3 with scikit-image, matplotlib for visualizations,
 and a bit of numpy for linear algebra operations.
 
 If you can't figure out how to install these I highly recommend using
 the [Anaconda](https://www.continuum.io/downloads) python distribution.
 It comes with all of the most popular scientific packages already installed.
-Additionally, the 
-
-```conda install package_name_here```
-
-command allows you to
-get access to an even larger collection of pre-compiled python packages, so no
+Additionally, the `conda install` command allows you to get access to an
+even larger collection of pre-compiled python packages, so no
 messing around with compiler errors!
 
+
+###An Introduction
 
 For part 1, we're going to learn color deconvolution, an algorithm for
 unmixing stains that was developed by 
@@ -32,4 +32,6 @@ Scikit-image offers very simple functions  for color deconvolution that
 we can dig down into a bit, see how they work, and modify to our needs.
 
 
-
+```python
+import matplotlib.pyplot as plt
+```
