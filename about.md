@@ -9,8 +9,9 @@ I like to solve problems using programming.
 
 I'm a big fan of open source, open science/data, and Linux.
 I'm also an avid reader of mostly science and some other non-fiction
-genres, check out some of my favorite books here 
-[https://www.goodreads.com/review/list/59024006?shelf=read]
+genres, check out some of my favorite books 
+[here](https://www.goodreads.com/review/list/59024006?shelf=read) 
+
 
 ### More Information
 
