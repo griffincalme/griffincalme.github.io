@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information
+Some information about you!
 
 ### More Information
 
-Other information
+A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[griffincalme@gmail.com](mailto:griffincalme@gmail.com)
+[email@domain.com](mailto:email@domain.com)
