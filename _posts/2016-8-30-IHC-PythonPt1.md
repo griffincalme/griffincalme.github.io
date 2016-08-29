@@ -7,9 +7,10 @@ For my blog debut, we're going to learn how to implement the programs I
 used in my paper for the [MicroDeconvolution](https://github.com/griffincalme/MicroDeconvolution)
 project.
 
+##Color Deconvolution
 ![Color deconvolution]({{ site.baseurl }}/images/IHC/CD.png)
 
-###Startup
+##Startup
 
 We'll be using Python 3 with scikit-image, matplotlib for visualizations,
 and a bit of numpy for linear algebra operations.
@@ -22,7 +23,7 @@ even larger collection of pre-compiled python packages, so no
 messing around with compiler errors!
 
 
-###An Introduction
+##An Introduction
 
 For part 1, we're going to learn color deconvolution, an algorithm for
 unmixing stains that was developed by 
