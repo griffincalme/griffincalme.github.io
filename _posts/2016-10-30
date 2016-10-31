@@ -1,0 +1,40 @@
+---
+layout: post
+title: Generating All Possible Amino Acid Sequences of A Given Length
+---
+
+I must be on a bit of a combinatorics kick lately.
+Anyways, peptides.
+
+There are 20 regular amino acids coded for by the universal genetic language. These aren't the only amino acids, there are [https://en.wikipedia.org/wiki/Selenocysteine][two] [https://en.wikipedia.org/wiki/Pyrrolysine][others] that can make up natural peptide sequences, but we don't talk about those much.
+There are also non-protein-forming "amino acids" like [https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid][GABA], D-isomers of the amino acids, post-translational amino acids, and even synthetic amino acids.
+Suffice to say, it's complicated.
+
+There are *a lot* of different proteins out there, databases like [http://www.uniprot.org/proteomes/UP000005640][uniprot] have catalogued 70,940 different known proteins for humans alone.
+The reason for this great diversity is twofold; there are 20 different amino acids in regular use and each amino acid added to a peptide chain multiplies the possible combinations by 20.
+What this means is that for every protein that has a function, there are vastly more sequences that do nothing.
+
+Let's look at insulin as an example. Human insulin, a "small" protein of 51 amino acids, aids in the control of blood glucose levels.
+It is released by β-cells in the pancreas in response to glucose. 
+If we were to generate all the other possible amino acids of this length, we'd have 20^51 (minus 1 for insulin) different polypeptides.
+
+
+That's a lot. There are only an estimated 10^50 [http://www.fnal.gov/pub/science/inquiring/questions/atoms.html][1] atoms on earth
+
+
+Permutations: order matters, you can't reuse objects 
+example: possible ways of doing my morning routine, brush teeth then shower then eat? or eat then brush then shower?
+
+Combinations: order doesn't matter, you can't reuse objects
+example: which of the brands of pencils to throw in my bag?
+
+Sequences: order matters, you can reuse objects
+example: my pin code, no I'm not gonna link that [https://www.youtube.com/watch?v=dQw4w9WgXcQ][here]
+
+
+So I guess a _combination_ lock is really a _sequence_ lock
+
+![a "combination" lock]({{ site.baseurl }}/images/Combination_lock.jpg)
+
+
+A sequence is the Cartesian product of a set with itself
