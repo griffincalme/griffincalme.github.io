@@ -12,7 +12,8 @@ I'm also an avid reader of mostly science and some other non-fiction
 genres, check out some of my favorite books 
 [here](https://www.goodreads.com/review/list/59024006?shelf=read).
 
-You can see my curriculum vitae [here](https://griffincalme.github.io/GriffinCV2016.pdf).
+You can see my curriculum vitae [here](https://griffincalme.github.io/Griffin2017CV.pdf).
+And a more complete academic summary [here](https://griffincalme.github.io/GriffinAboutMe.pdf)
 
 ### More Information
 
