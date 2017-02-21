@@ -22,4 +22,4 @@ If you'd like to get in contact with me, would like to know more about
 one of my projects, or if you think I can help you with something,
 send me an email:
 
-[griffincalme@gmail.com](mailto:griffincalme@gmail.com)
+[griffincalme@wayne.edu](mailto:griffincalme@wayne.edu)
