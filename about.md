@@ -14,7 +14,6 @@ genres, check out some of my favorite books
 
 You can see my curriculum vitae [here](https://griffincalme.github.io/Griffin2017CV.pdf).
 
-And a more complete academic summary [here](https://griffincalme.github.io/GriffinAboutMe.pdf).
 
 ### More Information
 
