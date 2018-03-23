@@ -10,7 +10,8 @@ description: A Blog on Programming in Science, Medicine, and More
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: griffincalme.github.io/images/ProfileSquare.jpg
-avatar: https://avatars1.githubusercontent.com/u/10441929?v=3&s=400
+#avatar: https://avatars1.githubusercontent.com/u/10441929?v=3&s=400
+avatar: https://avatars3.githubusercontent.com/u/10441929?s=400&u=55aee8bf7d1a6e02791bbe51c5dafba87bfb4a44&v=4
 
 #
 # Flags below are optional
@@ -20,19 +21,19 @@ avatar: https://avatars1.githubusercontent.com/u/10441929?v=3&s=400
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  #dribbble:
   email: griffincalme@gmail.com
-  facebook:
-  flickr:
+  #facebook:
+  #flickr:
   github: griffincalme
-  instagram:
-  linkedin:
-  pinterest:
-  rss: RSS
-  twitter: griffincalme
+  #instagram:
+  linkedin: griffin-calme-8622b6127
+  #pinterest:
+  #rss: RSS
+  #twitter: griffincalme
   stackoverflow: users/4455752/griffinc
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  #youtube: # channel/<your_long_string> or user/<user-name>
+  #googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
