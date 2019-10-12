@@ -7,8 +7,6 @@ permalink: /about/
 I am Griffin Calme, a PharmD student at Wayne State University,
 I like to solve problems using programming.
 
-You can see my curriculum vitae [here](https://griffincalme.github.io/GriffinCV.pdf).
-
 
 ### More Information
 
